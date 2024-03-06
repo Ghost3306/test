@@ -16,7 +16,7 @@ function RateUs() {
           i <= index ? 'five-pointed-star-hover' : 'five-pointed-star'
         );
         setHoverClasses(updatedHoverClasses); 
-        // setMouseLeaveEvent(null);
+       
       };
       
       const handleClick = (index) => {
