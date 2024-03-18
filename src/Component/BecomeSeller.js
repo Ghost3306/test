@@ -27,7 +27,7 @@ function BecomeSeller() {
         <div className="maindiv">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
-                <Link class="navbar-brand mx-4" href="#"><h4>Online Bazaarpeth</h4></Link>
+                <Link class="navbar-brand mx-4" to="/"><h4>Online Bazaarpeth</h4></Link>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
